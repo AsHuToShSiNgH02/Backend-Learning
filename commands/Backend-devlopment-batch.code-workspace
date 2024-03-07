@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/IMPORTANT DSA"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"list": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
